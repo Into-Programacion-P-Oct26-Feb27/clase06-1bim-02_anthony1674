@@ -10,9 +10,11 @@ package manejocadenas;
  * @author reroes
  */
 public class Ejemplo021 {
+
     public static void main(String[] args) {
         String ciudad = "loJa";
-       System.out.println("%s", ciudad.toUpperCase());
-        
+        System.out.println("%s\n", ciudad.toUpperCase());
+        System.out.println("%s\n", ciudad);
+
     }
 }
